@@ -1,0 +1,1 @@
+<h3>This is the index page of views</h3>
